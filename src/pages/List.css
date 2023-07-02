@@ -1,0 +1,28 @@
+    .container {
+        padding-bottom: 100px;
+        background-color: rgb(146, 219, 219);
+        display: grid;
+        grid-template-columns: repeat(3, 30%);
+        background-color: rgb(97, 158, 158);
+        gap: 40px;
+        padding-left: 50px;
+
+    }
+
+    .pag {
+        background-color: rgb(97, 158, 158);
+        border: 1px solid rgb(65, 110, 110);
+        width: 20px;
+        height: 20px;
+        margin: 1px;
+        align-content: center;
+    }
+    .fn {
+        background-color: rgb(97, 158, 158);
+    }
+    .bt {
+        background-color: rgb(97, 158, 158);
+        padding: 5px;
+        text-align: left;
+        padding-left: 50px;
+    }

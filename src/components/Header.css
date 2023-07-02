@@ -1,0 +1,12 @@
+    .headerContainer {
+        position: absolute;
+        width: 100%;
+        height: 100px;
+        background-color:  rgb(97, 158, 158);
+        padding: 12px;
+        display: flex;
+        align-items: center;
+        color: #fff;
+        font-size: 40px;
+        padding-left: 0;
+    }
